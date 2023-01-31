@@ -113,7 +113,7 @@ instance_detail = oci.core.models.LaunchInstanceDetails(
         ocpus=ocpus, memory_in_gbs=memory_in_gbs)
 )
 
-to_try = true
+to_try = True
 while to_try:
     try:
         to_launch_instance.launch_instance(instance_detail)
