@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaaxp7rjygzbqddtwoj3wb43ijltds5oos7pz4agcifl6dkfaqmiema
+fingerprint=99:0e:d6:16:47:df:89:9a:07:88:cd:a0:9b:6e:33:85
+tenancy=ocid1.tenancy.oc1..aaaaaaaaohqk7whsnlvl4syj7rmp433csngent455lx3c3yxktvkbb7zgcxa
+region=ap-singapore-1
+key_file=oci_private_key.pem
