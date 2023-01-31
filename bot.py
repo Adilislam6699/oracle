@@ -1,5 +1,5 @@
 displayName = 'ubuntu'
-compartmentId = 'ocid1.tenancy.oc1..aaaaaaaaohqk7rmp433csngent455lx3c3yxktvkbb7zgcxa'
+compartmentId = 'ocid1.tenancy.oc1..aaaaaaaaohqk7whsnlvl4syj7rmp433csngent455lx3c3yxktvkbb7zgcxa'
 availabilityDomain = "wVts:AP-SINGAPORE-1-AD-1"
 imageId = "ocid1.image.oc1.ap-singapore-1.aaaaaaaase3dr4tvkg7qn47txxpwpgnxfixukrcp23vnkqzdfra2wuicz4rq"
 subnetId = 'ocid1.subnet.oc1.ap-singapore-1.aaaaaaaapwy4p7o7ifu4xudag2idr3ctpnh2swlignxxthrugb2rlammtljq'
